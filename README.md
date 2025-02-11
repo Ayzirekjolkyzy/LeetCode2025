@@ -11,13 +11,16 @@
 ## String
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->

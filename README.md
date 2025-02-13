@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayzirekjolkyzy/30github/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

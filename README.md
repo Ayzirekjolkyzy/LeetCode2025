@@ -31,6 +31,7 @@
 | [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |

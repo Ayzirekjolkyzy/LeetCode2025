@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0009-palindrome-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Breadth-First Search
 |  |
 | ------- |

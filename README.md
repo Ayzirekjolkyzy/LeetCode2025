@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |
@@ -37,11 +38,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |

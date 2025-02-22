@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/Ayzirekjolkyzy/30github/tree/master/0326-power-of-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0953-reverse-only-letters](https://github.com/Ayzirekjolkyzy/30github/tree/master/0953-reverse-only-letters) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Ayzirekjolkyzy/30github/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

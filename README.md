@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Ayzirekjolkyzy/30github/tree/master/0326-power-of-three) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/Ayzirekjolkyzy/30github/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->

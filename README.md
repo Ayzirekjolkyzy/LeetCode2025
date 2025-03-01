@@ -29,12 +29,14 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0953-reverse-only-letters](https://github.com/Ayzirekjolkyzy/30github/tree/master/0953-reverse-only-letters) |
+| [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |

@@ -37,6 +37,7 @@
 | [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayzirekjolkyzy/30github/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -45,6 +46,7 @@
 | [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayzirekjolkyzy/30github/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | ------- |
 | [0953-reverse-only-letters](https://github.com/Ayzirekjolkyzy/30github/tree/master/0953-reverse-only-letters) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayzirekjolkyzy/30github/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
 |  |
 | ------- |

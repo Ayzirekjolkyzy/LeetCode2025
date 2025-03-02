@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayzirekjolkyzy/30github/tree/master/0020-valid-parentheses) |
 | [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/Ayzirekjolkyzy/30github/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
@@ -22,6 +23,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ayzirekjolkyzy/30github/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ayzirekjolkyzy/30github/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |

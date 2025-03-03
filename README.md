@@ -9,6 +9,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/Ayzirekjolkyzy/30github/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/Ayzirekjolkyzy/30github/tree/master/0441-arranging-coins) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## String
@@ -109,4 +110,8 @@
 | [1415-students-and-examinations](https://github.com/Ayzirekjolkyzy/30github/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Ayzirekjolkyzy/30github/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ayzirekjolkyzy/30github/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/Ayzirekjolkyzy/30github/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->

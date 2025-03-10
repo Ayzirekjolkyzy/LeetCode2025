@@ -31,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
+| [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayzirekjolkyzy/30github/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Ayzirekjolkyzy/30github/tree/master/0441-arranging-coins) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->

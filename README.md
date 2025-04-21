@@ -110,6 +110,7 @@
 | [0197-rising-temperature](https://github.com/Ayzirekjolkyzy/30github/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ayzirekjolkyzy/30github/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/Ayzirekjolkyzy/30github/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/Ayzirekjolkyzy/30github/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/Ayzirekjolkyzy/30github/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Ayzirekjolkyzy/30github/tree/master/1245-user-activity-for-the-past-30-days-i) |

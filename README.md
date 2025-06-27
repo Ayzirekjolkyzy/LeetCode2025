@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ayzirekjolkyzy/30github/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Ayzirekjolkyzy/30github/tree/master/0020-valid-parentheses) |
 | [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/Ayzirekjolkyzy/30github/tree/master/0953-reverse-only-letters) |

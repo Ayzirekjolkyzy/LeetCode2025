@@ -6,7 +6,7 @@ class Solution {
         for(int i=0; i<nums.length; i++) {
             if(i>0&&nums[i]!=nums[i-1]) {
                 if (count>1) {
-                    for(int j=2; j<count; j++) {
+                    for(int j=2; j*j<=count; j++) {
                         if(count%j==0){ 
                             k=false;
                             break;
@@ -21,7 +21,7 @@ class Solution {
 
         }
          if (count>1) {
-            for(int j=2; j<count; j++) {
+            for(int j=2; j*j<=count; j++) {
                 if(count%j==0){ 
                     k=false;
                     break;

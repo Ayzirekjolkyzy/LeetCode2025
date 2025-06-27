@@ -12,6 +12,7 @@
 | [0441-arranging-coins](https://github.com/Ayzirekjolkyzy/30github/tree/master/0441-arranging-coins) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Ayzirekjolkyzy/30github/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayzirekjolkyzy/30github/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Ayzirekjolkyzy/30github/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Ayzirekjolkyzy/30github/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayzirekjolkyzy/30github/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Ayzirekjolkyzy/30github/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Ayzirekjolkyzy/30github/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,4 +140,8 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Ayzirekjolkyzy/30github/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ayzirekjolkyzy/30github/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Ayzirekjolkyzy/30github/tree/master/0020-valid-parentheses) |
+| [0500-keyboard-row](https://github.com/Ayzirekjolkyzy/30github/tree/master/0500-keyboard-row) |
 | [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/Ayzirekjolkyzy/30github/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
+| [0500-keyboard-row](https://github.com/Ayzirekjolkyzy/30github/tree/master/0500-keyboard-row) |
 | [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
@@ -52,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/Ayzirekjolkyzy/30github/tree/master/0500-keyboard-row) |
 | [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |

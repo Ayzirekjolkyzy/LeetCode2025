@@ -23,6 +23,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ayzirekjolkyzy/30github/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/Ayzirekjolkyzy/30github/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |

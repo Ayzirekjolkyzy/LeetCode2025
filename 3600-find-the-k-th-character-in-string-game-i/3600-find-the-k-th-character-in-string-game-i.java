@@ -3,7 +3,7 @@ class Solution {
         String word="a";
         int ch;
         for(int i=0; Math.pow(2,i)<=k; i++) {
-            if(word.length()>=k) break;
+            // if(word.length()>=k) break;
             int temp=word.length();
             for(int j=0; j<temp; j++) {
                 ch=word.charAt(j);

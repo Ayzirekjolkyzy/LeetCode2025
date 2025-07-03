@@ -44,6 +44,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0136-single-number) |
 | [0500-keyboard-row](https://github.com/Ayzirekjolkyzy/30github/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Ayzirekjolkyzy/30github/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -63,6 +65,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0807-custom-sort-string](https://github.com/Ayzirekjolkyzy/30github/tree/master/0807-custom-sort-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
@@ -101,6 +104,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Ayzirekjolkyzy/30github/tree/master/1297-maximum-number-of-balloons) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Ayzirekjolkyzy/30github/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -150,4 +154,8 @@
 |  |
 | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Ayzirekjolkyzy/30github/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->

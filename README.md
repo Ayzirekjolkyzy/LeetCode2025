@@ -1,6 +1,4 @@
-# 30github
- Growthhungry челлендж 
-  
+ 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

@@ -124,6 +124,7 @@
 | [0196-delete-duplicate-emails](https://github.com/Ayzirekjolkyzy/30github/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Ayzirekjolkyzy/30github/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ayzirekjolkyzy/30github/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/Ayzirekjolkyzy/30github/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/Ayzirekjolkyzy/30github/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/Ayzirekjolkyzy/30github/tree/master/1135-customers-who-bought-all-products) |

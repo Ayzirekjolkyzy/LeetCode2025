@@ -48,6 +48,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ayzirekjolkyzy/30github/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayzirekjolkyzy/30github/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayzirekjolkyzy/30github/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Ayzirekjolkyzy/30github/tree/master/0898-transpose-matrix) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ayzirekjolkyzy/LeetCode2025/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Number Theory
 |  |
 | ------- |
